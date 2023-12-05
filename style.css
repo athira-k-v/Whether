@@ -5,7 +5,7 @@ body{
     /* background-image: url();
     background-repeat: no-repeat;
     background-size: cover; */
-    height: 900px;
+    /* height: 900px; */
     
 }
 
@@ -55,7 +55,7 @@ span{
     color: yellow;
 }
 .a7{
-    height: 120px;
+    /* height: 120px; */
     /* border: 2px solid rgb(223, 223, 64); */
 }
 .a8{
@@ -73,10 +73,10 @@ span{
    
 
 }
-.a12{
-    height: 120px;
+/* .a12{ */
+    /* height: 120px; */
     /* border: 2px solid rgb(223, 223, 64); */
-}
+/* } */
 
 .b1{
     border-radius: 10px;
@@ -116,4 +116,4 @@ span{
         text-align: center;
       
      }
-     
+    }
